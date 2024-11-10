@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.13.1](https://github.com/iobruno/timely-dataflow/compare/timely-v0.13.0...timely-v0.13.1) - 2024-11-10
+
+### Other
+
+- Simplify communication `Message` type ([#596](https://github.com/iobruno/timely-dataflow/pull/596))
+
 ## 0.13.0 - 2024-10-29
 
 Changelog bankruptcy declared.
